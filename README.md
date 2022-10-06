@@ -22,4 +22,5 @@ Election-Audit Results:
 - Diana DeGette won the election with a vote count of 272,892 which accounted for 73.8% of all votes.
 
 Election-Audit Summary: 
+
 This election-audit was programmed using Python and Visual Studio Code. This script can be modified and used for future elections by replacing the CSV file connected to the code. This will also require you to modify any necessary variables and format. 
