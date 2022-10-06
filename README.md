@@ -1,6 +1,7 @@
 # Election_Analysis_Challenge
 
-Overview of Election Audit
+Overview of Election Audit:
+
 The purpose of this election analysis is to report the election-audit results for a U.S. congressional precinct in Colorado. 
 
 Election-Audit Results:
